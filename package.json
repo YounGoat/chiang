@@ -1,0 +1,28 @@
+{
+    "bin": {},
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "chiang",
+    "version": "0.0.0",
+    "main": "index.js",
+    "keywords": [
+        ""
+    ],
+    "homepage": "https://github.com/YounGoat/chiang",
+    "description": "Security holding package",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/chiang.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
